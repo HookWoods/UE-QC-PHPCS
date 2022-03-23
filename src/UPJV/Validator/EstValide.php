@@ -1,16 +1,18 @@
 <?php
+
 /**
  * PHP version 8.0.1
  * This class is used to validate a string.
  *
  * @category Test
  *
- * @package  UPJV/Validator
+ * @package UPJV/Validator
  *
- * @author   UPJV <test@upjv.fr>
+ * @author UPJV <test@upjv.fr>
  *
- * @license  https://www.gnu.org/licenses/agpl-3.0.fr.html AGPL V3
- * @link     https://github.com/HookWoods/QualiteCodeTU
+ * @license https://www.gnu.org/licenses/agpl-3.0.fr.html AGPL V3
+ *
+ * @link https://github.com/HookWoods/QualiteCodeTU
  */
 
 namespace UPJV\Validator;
@@ -21,15 +23,15 @@ namespace UPJV\Validator;
  * @category Class
  *
  *
- * @author   UPJV <test@upjv.fr>
+ * @author UPJV <test@upjv.fr>
  *
- * @license  https://www.gnu.org/licenses/agpl-3.0.fr.html AGPL V3
+ * @license https://www.gnu.org/licenses/agpl-3.0.fr.html AGPL V3
  *
- * @version  Release: 1.0
+ * @version Release: 1.0
  *
- * @access   public
+ * @access public
  *
- * @link     https://github.com/HookWoods/QualiteCodeTU
+ * @link https://github.com/HookWoods/QualiteCodeTU
  */
 class EstValide implements ValidatorInterface
 {
