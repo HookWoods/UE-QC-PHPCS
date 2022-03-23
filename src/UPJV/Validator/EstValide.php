@@ -4,8 +4,11 @@
  * This class is used to validate a string.
  *
  * @category Test
+ *
  * @package  UPJV/Validator
+ *
  * @author   UPJV <test@upjv.fr>
+ *
  * @license  https://www.gnu.org/licenses/agpl-3.0.fr.html AGPL V3
  * @link     https://github.com/HookWoods/QualiteCodeTU
  */
@@ -16,11 +19,16 @@ namespace UPJV\Validator;
  * Classe EstValide
  *
  * @category Class
- * @package  UPJV\Validator
+ *
+ *
  * @author   UPJV <test@upjv.fr>
+ *
  * @license  https://www.gnu.org/licenses/agpl-3.0.fr.html AGPL V3
+ *
  * @version  Release: 1.0
+ *
  * @access   public
+ *
  * @link     https://github.com/HookWoods/QualiteCodeTU
  */
 class EstValide implements ValidatorInterface
