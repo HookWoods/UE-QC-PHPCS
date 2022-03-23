@@ -22,7 +22,6 @@ namespace UPJV\Validator;
  *
  * @category Class
  *
- *
  * @author UPJV <test@upjv.fr>
  *
  * @license https://www.gnu.org/licenses/agpl-3.0.fr.html AGPL V3
